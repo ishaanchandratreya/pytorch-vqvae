@@ -10,3 +10,4 @@ Our contributions include
 2. Code for test-time optimizations
 3. Visualizing/sampling code 
 4. Extension of PixelCNN prior to other datasets.
+5. Method for Normalizing Flows
