@@ -1,3 +1,12 @@
+# Exploring Test Time Optimization for Discrete Neural Representation Learners
+
+Our code can be split up into two implementation sections -- one on Normalising Flows, and one on the PyTorch VQVAE.
+
+## Normalising Flows
+Max todo
+
+## PyTorch VQ-VAE 
+
 We built this code on original code at https://github.com/ritheshkumar95/pytorch-vqvae with
 initial authors.
 
