@@ -3,7 +3,15 @@
 Our code can be split up into two implementation sections -- one on Normalising Flows, and one on the PyTorch VQVAE.
 
 ## Normalising Flows
-Max todo
+We built this code on original code at https://github.com/VincentStimper/normalizing-flows with initial authors.
+
+1. Vincent Stimper
+2. Lukas Ryll
+3. David Liu
+
+Our contributions include
+1. A Gumbel-Softmax target distribution class
+2. Code for training the flows
 
 ## PyTorch VQ-VAE 
 
